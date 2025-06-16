@@ -59,8 +59,8 @@ body{
 
 .video-wrapper {
   position: relative;
-  width: 60%;
-  max-width: 400px;
+  height: 100px;
+  width: 100px;
   cursor: pointer;
   margin-bottom: 20px;
 }
@@ -771,9 +771,9 @@ body{
 
 
 .video-wrapper {
-  position: relative;
-  width: 40%;
-  max-width: 100px;
+ position: relative;
+  height: 100px;
+  width: 100px;
   cursor: pointer;
   margin-bottom: 20px;
 }
@@ -1467,8 +1467,8 @@ body{
 
 .video-wrapper {
   position: relative;
-  width: 40%;
-  max-width: 120px;
+  height: 150px;
+  width: 100px;
   cursor: pointer;
   margin-bottom: 20px;
 }
@@ -2159,8 +2159,8 @@ body{
 
 .video-wrapper {
   position: relative;
-  width: 40%;
-  max-width: 140px;
+  height: 200px;
+  width: 150px;
   cursor: pointer;
   margin-bottom: 20px;
 }
