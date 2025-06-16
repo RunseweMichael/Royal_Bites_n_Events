@@ -61,6 +61,7 @@ export default function Footer() {
 
         <div className='copyright'>
           Copyright &copy; 2025 Royal Bites n' Events Services. All rights reserved.
+          <p>Website built and deployed by Michael Runsewe.</p>
         </div>
       </div>
     </motion.div>
