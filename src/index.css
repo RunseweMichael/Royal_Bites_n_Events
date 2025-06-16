@@ -773,7 +773,7 @@ body{
 .video-wrapper {
   position: relative;
   width: 40%;
-  max-width: 200px;
+  max-width: 100px;
   cursor: pointer;
   margin-bottom: 20px;
 }
@@ -1468,7 +1468,7 @@ body{
 .video-wrapper {
   position: relative;
   width: 40%;
-  max-width: 200px;
+  max-width: 120px;
   cursor: pointer;
   margin-bottom: 20px;
 }
@@ -2160,7 +2160,7 @@ body{
 .video-wrapper {
   position: relative;
   width: 40%;
-  max-width: 300px;
+  max-width: 140px;
   cursor: pointer;
   margin-bottom: 20px;
 }
